@@ -57,6 +57,10 @@ body {
   color: white;
   font-size: 16px;
 }
+.globalMain {
+  margin-left: auto;
+  margin-right: auto;
+}
 @media (min-width: 500px) {
   .globalMain {
     max-width: 900px;
@@ -150,4 +154,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.72c8a6c9.css.map */
+/*# sourceMappingURL=style.6ab984c9.css.map */
