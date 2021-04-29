@@ -57,10 +57,7 @@ body {
   color: white;
   font-size: 16px;
 }
-.globalMain {
-  margin-left: auto;
-  margin-right: auto;
-}
+
 @media (min-width: 500px) {
   .globalMain {
     max-width: 900px;
@@ -74,6 +71,11 @@ body {
   flex-wrap: wrap;
   margin: 20px;
   justify-content: space-between;
+}
+@media (max-width: 500px) {
+  .siteList {
+    margin: 18px;
+  }
 }
 
 @media (min-width: 500px) {
